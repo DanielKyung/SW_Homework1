@@ -1,1 +1,5 @@
-line 1 check
+git clone <github 저장소 주소>
+git add .
+git commit -am'1st githubtest'
+git push origin hub1
+
